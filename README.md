@@ -45,6 +45,17 @@ O projeto segue o padrão **ASP.NET Core MVC**, utilizando **Entity Framework Co
 | `Usuario` | Representa a pessoa que usa a aplicação. |
 
 ---
+## 📖 Documentação Técnica
+
+O projeto foi desenvolvido em **ASP.NET Core MVC** com **Entity Framework Core** e **SQL Server LocalDB**.  
+Segue o fluxo principal de funcionamento:
+
+1. O usuário acessa o sistema via navegador.
+2. As páginas de CRUD permitem cadastrar e visualizar dados como Competências, Trilhas, Cursos e Mentores.
+3. O `AppDbContext` faz a conexão entre as entidades e o banco de dados.
+4. Todas as tabelas são geradas automaticamente pelas Migrations.
+
+---
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -83,6 +94,10 @@ dotnet run
 ```
 https://localhost:5001
 ```
+## 🔄 Fluxo de Dados
+
+![Fluxo de Dados](Docs/fluxo.png)
+
 ## 🧩 Funcionalidades Implementadas
 ```
 ✅ CRUD completo para todas as entidades

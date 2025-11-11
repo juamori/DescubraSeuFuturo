@@ -17,177 +17,177 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DescubraSeuFuturo
 build_property.RootNamespace = DescubraSeuFuturo
-build_property.ProjectDir = C:\Users\julic\desktop\descubraseufuturo\
+build_property.ProjectDir = C:\Users\julic\Desktop\DescubraSeuFuturo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\julic\desktop\descubraseufuturo
+build_property.MSBuildProjectDirectory = C:\Users\julic\Desktop\DescubraSeuFuturo
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Competencia/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Competencia/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0ZW5jaWFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Competencia/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Competencia/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0ZW5jaWFcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Competencia/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Competencia/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0ZW5jaWFcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Competencia/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Competencia/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0ZW5jaWFcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Competencia/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Competencia/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0ZW5jaWFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Curso/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Curso/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Curso/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Curso/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Curso/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Curso/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Curso/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Curso/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Curso/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Curso/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Empregabilidade/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Empregabilidade/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVnYWJpbGlkYWRlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Empregabilidade/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Empregabilidade/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVnYWJpbGlkYWRlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Empregabilidade/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Empregabilidade/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVnYWJpbGlkYWRlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Empregabilidade/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Empregabilidade/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVnYWJpbGlkYWRlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Empregabilidade/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Empregabilidade/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVnYWJpbGlkYWRlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Habilidade/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Habilidade/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Habilidade/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Habilidade/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Habilidade/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Habilidade/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Habilidade/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Habilidade/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Habilidade/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Habilidade/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Mentor/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Mentor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Mentor/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Mentor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudG9yXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Mentor/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Mentor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Mentor/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Mentor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudG9yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Mentor/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Mentor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Setor/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Setor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0b3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Setor/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Setor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0b3JcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Setor/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Setor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0b3JcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Setor/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Setor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0b3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Setor/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Setor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0b3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/TrilhaAprendizado/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/TrilhaAprendizado/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpbGhhQXByZW5kaXphZG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/TrilhaAprendizado/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/TrilhaAprendizado/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpbGhhQXByZW5kaXphZG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/TrilhaAprendizado/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/TrilhaAprendizado/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpbGhhQXByZW5kaXphZG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/TrilhaAprendizado/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/TrilhaAprendizado/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpbGhhQXByZW5kaXphZG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/TrilhaAprendizado/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/TrilhaAprendizado/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpbGhhQXByZW5kaXphZG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Usuario/Create.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Usuario/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Usuario/Delete.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Usuario/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Usuario/Details.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Usuario/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Usuario/Edit.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Usuario/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/julic/desktop/descubraseufuturo/Views/Usuario/Index.cshtml]
+[C:/Users/julic/Desktop/DescubraSeuFuturo/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

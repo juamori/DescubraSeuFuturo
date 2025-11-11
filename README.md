@@ -96,7 +96,7 @@ https://localhost:5001
 ```
 ## 🔄 Fluxo de Dados
 
-![Fluxo de Dados](Docs/fluxo.png)
+![Fluxo de Dados](Docs/Fluxo.png)
 
 ## 🧩 Funcionalidades Implementadas
 ```
